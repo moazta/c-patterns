@@ -1,2 +1,2 @@
-# c-patterns
- This repo contain code of c++ specially c++ patterns
+# cpp-patterns
+ This repo contain codes of c++, specially c++ patterns.
